@@ -1,0 +1,2216 @@
+[
+  [
+    {
+      "holiday": true,
+      "date": "2072-01-01",
+      "event": "नेपाली नयाँ बर्ष",
+      "tithi": "दशमी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-01-02",
+      "event": "बरुधिनी एकादशी",
+      "tithi": "एकादशी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-01-03",
+      "event": "--",
+      "tithi": "द्वादशी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-01-04",
+      "event": "--",
+      "tithi": "त्रयोदशी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-01-05",
+      "event": "आमाको मुख हेर्ने दिन",
+      "tithi": "औंसी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-01-06",
+      "event": "--",
+      "tithi": "प्रतिपदा"
+    },
+    {
+      "holiday": false,
+      "date": "2072-01-07",
+      "event": "--",
+      "tithi": "द्वितीया"
+    },
+    {
+      "holiday": false,
+      "date": "2072-01-08",
+      "event": "--",
+      "tithi": "तृतिया"
+    },
+    {
+      "holiday": false,
+      "date": "2072-01-09",
+      "event": "--",
+      "tithi": "चतुर्थी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-01-10",
+      "event": "--",
+      "tithi": "पञ्चमी"
+    },
+    {
+      "holiday": true,
+      "date": "2072-01-11",
+      "event": "लोकतन्त्र दिवस",
+      "tithi": "षष्ठी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-01-12",
+      "event": "विश्व मलेरिया दिवस",
+      "tithi": "सप्तमी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-01-13",
+      "event": "--",
+      "tithi": "अष्टमी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-01-14",
+      "event": "--",
+      "tithi": "नवमी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-01-15",
+      "event": "--",
+      "tithi": "दशमी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-01-16",
+      "event": "मोहिनी एकादशी",
+      "tithi": "एकादशी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-01-17",
+      "event": "--",
+      "tithi": "द्वादशी"
+    },
+    {
+      "holiday": true,
+      "date": "2072-01-18",
+      "event": "अन्तर्राष्ट्रिय श्रमिक दिवस",
+      "tithi": "त्रयोदशी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-01-19",
+      "event": "--",
+      "tithi": "त्रयोदशी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-01-20",
+      "event": "बिश्व प्रेस स्वतन्त्रता दिवस ",
+      "tithi": "चतुर्दशी"
+    },
+    {
+      "holiday": true,
+      "date": "2072-01-21",
+      "event": "बुद्ध जयन्ति",
+      "tithi": "पूर्णिमा"
+    },
+    {
+      "holiday": false,
+      "date": "2072-01-22",
+      "event": "--",
+      "tithi": "प्रतिपदा"
+    },
+    {
+      "holiday": false,
+      "date": "2072-01-23",
+      "event": "--",
+      "tithi": "द्वितीया"
+    },
+    {
+      "holiday": false,
+      "date": "2072-01-24",
+      "event": "किराँत समाज सुधार दिवस ",
+      "tithi": "तृतिया"
+    },
+    {
+      "holiday": false,
+      "date": "2072-01-25",
+      "event": "बिश्व रेडक्रस दिवस ",
+      "tithi": "चतुर्थी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-01-26",
+      "event": "कानून दिवस ",
+      "tithi": "पञ्चमी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-01-27",
+      "event": "--",
+      "tithi": "षष्ठी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-01-28",
+      "event": "--",
+      "tithi": "अष्टमी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-01-29",
+      "event": "--",
+      "tithi": "नवमी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-01-30",
+      "event": "--",
+      "tithi": "दशमी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-01-31",
+      "event": "अपरा एकादशी",
+      "tithi": "एकादशी"
+    }
+  ],
+  [
+    {
+      "holiday": false,
+      "date": "2072-02-01",
+      "event": "वृष संक्रान्ति",
+      "tithi": "द्वादशी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-02-02",
+      "event": "--",
+      "tithi": "त्रयोदशी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-02-03",
+      "event": "दूरसंचार दिवस",
+      "tithi": "चतुर्दशी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-02-04",
+      "event": "शनि जयन्ति",
+      "tithi": "औंसी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-02-05",
+      "event": "--",
+      "tithi": "प्रतिपदा"
+    },
+    {
+      "holiday": false,
+      "date": "2072-02-06",
+      "event": "--",
+      "tithi": "द्वितीया"
+    },
+    {
+      "holiday": false,
+      "date": "2072-02-07",
+      "event": "--",
+      "tithi": "तृतिया"
+    },
+    {
+      "holiday": false,
+      "date": "2072-02-08",
+      "event": "--",
+      "tithi": "चतुर्थी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-02-09",
+      "event": "--",
+      "tithi": "पञ्चमी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-02-10",
+      "event": "--",
+      "tithi": "षष्ठी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-02-11",
+      "event": "--",
+      "tithi": "सप्तमी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-02-12",
+      "event": "--",
+      "tithi": "अष्टमी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-02-13",
+      "event": "--",
+      "tithi": "नवमी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-02-14",
+      "event": "महिला स्वास्थ्य दिवस ",
+      "tithi": "दशमी"
+    },
+    {
+      "holiday": true,
+      "date": "2072-02-15",
+      "event": "गणतन्त्र दिवस",
+      "tithi": "एकादशी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-02-16",
+      "event": "--",
+      "tithi": "द्वादशी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-02-17",
+      "event": "धुम्रपान रहित दिवस ",
+      "tithi": "त्रयोदशी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-02-18",
+      "event": "--",
+      "tithi": "चतुर्दशी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-02-19",
+      "event": "--",
+      "tithi": "पूर्णिमा"
+    },
+    {
+      "holiday": false,
+      "date": "2072-02-20",
+      "event": "--",
+      "tithi": "प्रतिपदा"
+    },
+    {
+      "holiday": false,
+      "date": "2072-02-21",
+      "event": "--",
+      "tithi": "द्वितीया"
+    },
+    {
+      "holiday": false,
+      "date": "2072-02-22",
+      "event": "बाताबरण दिवस",
+      "tithi": "तृतिया"
+    },
+    {
+      "holiday": false,
+      "date": "2072-02-23",
+      "event": "--",
+      "tithi": "चतुर्थी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-02-24",
+      "event": "--",
+      "tithi": "पञ्चमी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-02-25",
+      "event": "--",
+      "tithi": "षष्ठी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-02-26",
+      "event": "--",
+      "tithi": "सप्तमी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-02-27",
+      "event": "--",
+      "tithi": "अष्टमी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-02-28",
+      "event": "--",
+      "tithi": "नवमी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-02-29",
+      "event": "बालश्रम बिरोध दिवस",
+      "tithi": "एकादशी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-02-30",
+      "event": "--",
+      "tithi": "द्वादशी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-02-31",
+      "event": "रक्तदाता दिवस",
+      "tithi": "त्रयोदशी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-02-32",
+      "event": "--",
+      "tithi": "चतुर्दशी"
+    }
+  ],
+  [
+    {
+      "holiday": false,
+      "date": "2072-03-01",
+      "event": "मिथुन संक्रान्ति",
+      "tithi": "औंसी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-03-02",
+      "event": "बिश्व खडेरी रोकथाम दिवस ",
+      "tithi": "प्रतिपदा"
+    },
+    {
+      "holiday": false,
+      "date": "2072-03-03",
+      "event": "--",
+      "tithi": "द्वितीया"
+    },
+    {
+      "holiday": false,
+      "date": "2072-03-04",
+      "event": "--",
+      "tithi": "तृतिया"
+    },
+    {
+      "holiday": false,
+      "date": "2072-03-05",
+      "event": "शरनार्थी दिवस ",
+      "tithi": "चतुर्थी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-03-06",
+      "event": "संगीत दिवस",
+      "tithi": "पञ्चमी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-03-07",
+      "event": "--",
+      "tithi": "षष्ठी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-03-08",
+      "event": "--",
+      "tithi": "सप्तमी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-03-09",
+      "event": "--",
+      "tithi": "अष्टमी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-03-10",
+      "event": "--",
+      "tithi": "अष्टमी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-03-11",
+      "event": "लागूऔषध ब्यापार बिरुद्धको दिवस ",
+      "tithi": "नवमी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-03-12",
+      "event": "--",
+      "tithi": "दशमी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-03-13",
+      "event": "कमला एकादशी",
+      "tithi": "एकादशी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-03-14",
+      "event": "--",
+      "tithi": "द्वादशी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-03-15",
+      "event": "दहि चिउरा खाने दिन",
+      "tithi": "त्रयोदशी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-03-16",
+      "event": "--",
+      "tithi": "चतुर्दशी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-03-17",
+      "event": "खेलकुद पत्रकार दिवस ",
+      "tithi": "पूर्णिमा"
+    },
+    {
+      "holiday": false,
+      "date": "2072-03-18",
+      "event": "--",
+      "tithi": "प्रतिपदा"
+    },
+    {
+      "holiday": false,
+      "date": "2072-03-19",
+      "event": "बिश्व सहकारी दिवस ",
+      "tithi": "तृतिया"
+    },
+    {
+      "holiday": false,
+      "date": "2072-03-20",
+      "event": "--",
+      "tithi": "चतुर्थी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-03-21",
+      "event": "--",
+      "tithi": "पञ्चमी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-03-22",
+      "event": "--",
+      "tithi": "षष्ठी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-03-23",
+      "event": "--",
+      "tithi": "सप्तमी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-03-24",
+      "event": "--",
+      "tithi": "अष्टमी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-03-25",
+      "event": "--",
+      "tithi": "नवमी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-03-26",
+      "event": "बिश्व जनसंख्या दिवस",
+      "tithi": "दशमी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-03-27",
+      "event": "कमला एकादशी",
+      "tithi": "एकादशी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-03-28",
+      "event": "--",
+      "tithi": "द्वादशी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-03-29",
+      "event": "भानु जयन्ति",
+      "tithi": "त्रयोदशी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-03-30",
+      "event": "--",
+      "tithi": "चतुर्दशी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-03-31",
+      "event": "--",
+      "tithi": "औंसी"
+    }
+  ],
+  [
+    {
+      "holiday": false,
+      "date": "2072-04-01",
+      "event": "कर्कट संक्रान्ति ",
+      "tithi": "प्रतिपदा"
+    },
+    {
+      "holiday": false,
+      "date": "2072-04-02",
+      "event": "--",
+      "tithi": "द्वितीया"
+    },
+    {
+      "holiday": false,
+      "date": "2072-04-03",
+      "event": "--",
+      "tithi": "तृतिया"
+    },
+    {
+      "holiday": false,
+      "date": "2072-04-04",
+      "event": "--",
+      "tithi": "चतुर्थी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-04-05",
+      "event": "--",
+      "tithi": "पञ्चमी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-04-06",
+      "event": "--",
+      "tithi": "षष्ठी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-04-07",
+      "event": "--",
+      "tithi": "सप्तमी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-04-08",
+      "event": "--",
+      "tithi": "अष्टमी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-04-09",
+      "event": "--",
+      "tithi": "नवमी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-04-10",
+      "event": "--",
+      "tithi": "दशमी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-04-11",
+      "event": "हरिसयनी एकादशी",
+      "tithi": "एकादशी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-04-12",
+      "event": "ह्यापाटाईटिस दिवस",
+      "tithi": "द्वादशी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-04-13",
+      "event": "--",
+      "tithi": "त्रयोदशी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-04-14",
+      "event": "--",
+      "tithi": "चतुर्दशी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-04-15",
+      "event": "गुरु पूर्णिमा ",
+      "tithi": "पूर्णिमा"
+    },
+    {
+      "holiday": false,
+      "date": "2072-04-16",
+      "event": "--",
+      "tithi": "प्रतिपदा"
+    },
+    {
+      "holiday": false,
+      "date": "2072-04-17",
+      "event": "मित्रता दिवस ",
+      "tithi": "द्वितीया"
+    },
+    {
+      "holiday": false,
+      "date": "2072-04-18",
+      "event": "--",
+      "tithi": "तृतिया"
+    },
+    {
+      "holiday": false,
+      "date": "2072-04-19",
+      "event": "--",
+      "tithi": "पञ्चमी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-04-20",
+      "event": "--",
+      "tithi": "षष्ठी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-04-21",
+      "event": "--",
+      "tithi": "सप्तमी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-04-22",
+      "event": "--",
+      "tithi": "अष्टमी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-04-23",
+      "event": "भू- संरक्षण दिवस ",
+      "tithi": "नवमी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-04-24",
+      "event": "आदिबासी जनजाती दिवस ",
+      "tithi": "दशमी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-04-25",
+      "event": "कामिका एकादशी",
+      "tithi": "एकादशी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-04-26",
+      "event": "--",
+      "tithi": "द्वादशी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-04-27",
+      "event": "युवा दिवस",
+      "tithi": "त्रयोदशी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-04-28",
+      "event": "--",
+      "tithi": "चतुर्दशी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-04-29",
+      "event": "--",
+      "tithi": "औंसी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-04-30",
+      "event": "--",
+      "tithi": "प्रतिपदा"
+    },
+    {
+      "holiday": false,
+      "date": "2072-04-31",
+      "event": "--",
+      "tithi": "द्वितीया"
+    },
+    {
+      "holiday": false,
+      "date": "2072-04-32",
+      "event": "--",
+      "tithi": "तृतिया"
+    }
+  ],
+  [
+    {
+      "holiday": false,
+      "date": "2072-05-01",
+      "event": "सिंह संक्रान्ति",
+      "tithi": "चतुर्थी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-05-02",
+      "event": "मानवता दिवस ",
+      "tithi": "चतुर्थी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-05-03",
+      "event": "--",
+      "tithi": "पञ्चमी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-05-04",
+      "event": "--",
+      "tithi": "षष्ठी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-05-05",
+      "event": "--",
+      "tithi": "सप्तमी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-05-06",
+      "event": "--",
+      "tithi": "अष्टमी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-05-07",
+      "event": "--",
+      "tithi": "नवमी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-05-08",
+      "event": "--",
+      "tithi": "दशमी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-05-09",
+      "event": "पुत्रदा एकादशी",
+      "tithi": "एकादशी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-05-10",
+      "event": "--",
+      "tithi": "द्वादशी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-05-11",
+      "event": "--",
+      "tithi": "त्रयोदशी"
+    },
+    {
+      "holiday": true,
+      "date": "2072-05-12",
+      "event": "जनै पूर्णिमा ",
+      "tithi": "पूर्णिमा"
+    },
+    {
+      "holiday": true,
+      "date": "2072-05-13",
+      "event": "गाइजात्रा (उपत्यकामा मात्र )",
+      "tithi": "प्रतिपदा"
+    },
+    {
+      "holiday": false,
+      "date": "2072-05-14",
+      "event": "--",
+      "tithi": "द्वितीया"
+    },
+    {
+      "holiday": false,
+      "date": "2072-05-15",
+      "event": "--",
+      "tithi": "तृतिया"
+    },
+    {
+      "holiday": false,
+      "date": "2072-05-16",
+      "event": "--",
+      "tithi": "चतुर्थी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-05-17",
+      "event": "--",
+      "tithi": "पञ्चमी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-05-18",
+      "event": "--",
+      "tithi": "सप्तमी"
+    },
+    {
+      "holiday": true,
+      "date": "2072-05-19",
+      "event": "श्रीकृष्ण जन्माष्टमी",
+      "tithi": "अष्टमी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-05-20",
+      "event": "--",
+      "tithi": "नवमी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-05-21",
+      "event": "--",
+      "tithi": "दशमी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-05-22",
+      "event": "साक्षरता दिवस ",
+      "tithi": "एकादशी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-05-23",
+      "event": "--",
+      "tithi": "द्वादशी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-05-24",
+      "event": "--",
+      "tithi": "द्वादशी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-05-25",
+      "event": "--",
+      "tithi": "त्रयोदशी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-05-26",
+      "event": "--",
+      "tithi": "चतुर्दशी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-05-27",
+      "event": "कुशे औंशी ",
+      "tithi": "औंसी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-05-28",
+      "event": "--",
+      "tithi": "प्रतिपदा"
+    },
+    {
+      "holiday": false,
+      "date": "2072-05-29",
+      "event": "दर खाने दिन",
+      "tithi": "द्वितीया"
+    },
+    {
+      "holiday": true,
+      "date": "2072-05-30",
+      "event": "हरितालिका तीज ",
+      "tithi": "तृतिया"
+    },
+    {
+      "holiday": false,
+      "date": "2072-05-31",
+      "event": "गणेश चतुर्थी",
+      "tithi": "चतुर्थी"
+    }
+  ],
+  [
+    {
+      "holiday": true,
+      "date": "2072-06-01",
+      "event": "कन्या संक्रान्ति ",
+      "tithi": "पञ्चमी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-06-02",
+      "event": "--",
+      "tithi": "षष्ठी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-06-03",
+      "event": "--",
+      "tithi": "सप्तमी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-06-04",
+      "event": "बिश्व शान्ति दिवस",
+      "tithi": "अष्टमी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-06-05",
+      "event": "--",
+      "tithi": "नवमी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-06-06",
+      "event": "--",
+      "tithi": "दशमी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-06-07",
+      "event": "हरिपर्बतिनी एकादशी",
+      "tithi": "एकादशी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-06-08",
+      "event": "--",
+      "tithi": "द्वादशी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-06-09",
+      "event": "--",
+      "tithi": "त्रयोदशी"
+    },
+    {
+      "holiday": true,
+      "date": "2072-06-10",
+      "event": "इन्द्र जात्रा (उपत्यकामा मात्र )",
+      "tithi": "चतुर्दशी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-06-11",
+      "event": "सोह्रश्राद्ध आरम्भ ",
+      "tithi": "पूर्णिमा"
+    },
+    {
+      "holiday": false,
+      "date": "2072-06-12",
+      "event": "--",
+      "tithi": "द्वितीया"
+    },
+    {
+      "holiday": false,
+      "date": "2072-06-13",
+      "event": "--",
+      "tithi": "तृतिया"
+    },
+    {
+      "holiday": false,
+      "date": "2072-06-14",
+      "event": "बृद्ध दिवस",
+      "tithi": "चतुर्थी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-06-15",
+      "event": "अहिंसा दिवस",
+      "tithi": "पञ्चमी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-06-16",
+      "event": "--",
+      "tithi": "षष्ठी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-06-17",
+      "event": "--",
+      "tithi": "सप्तमी"
+    },
+    {
+      "holiday": true,
+      "date": "2072-06-18",
+      "event": "शिक्षक दिवस",
+      "tithi": "अष्टमी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-06-19",
+      "event": "--",
+      "tithi": "नवमी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-06-20",
+      "event": "--",
+      "tithi": "दशमी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-06-21",
+      "event": "इन्दिरा एकादशी",
+      "tithi": "एकादशी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-06-22",
+      "event": "--",
+      "tithi": "द्वादशी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-06-23",
+      "event": "--",
+      "tithi": "त्रयोदशी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-06-24",
+      "event": "--",
+      "tithi": "चतुर्दशी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-06-25",
+      "event": "सर्ब पितृ मोक्ष औंशी",
+      "tithi": "औंसी"
+    },
+    {
+      "holiday": true,
+      "date": "2072-06-26",
+      "event": "घटस्थापना",
+      "tithi": "औंसी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-06-27",
+      "event": "गुणस्तर दिवस ",
+      "tithi": "प्रतिपदा"
+    },
+    {
+      "holiday": false,
+      "date": "2072-06-28",
+      "event": "ग्रामिण महिला दिवस",
+      "tithi": "द्वितीया"
+    },
+    {
+      "holiday": false,
+      "date": "2072-06-29",
+      "event": "खाद्य दिवस",
+      "tithi": "तृतिया"
+    },
+    {
+      "holiday": false,
+      "date": "2072-06-30",
+      "event": "अन्तराष्ट्रिय गरिबी निवारण दिवस",
+      "tithi": "चतुर्थी"
+    }
+  ],
+  [
+    {
+      "holiday": false,
+      "date": "2072-07-01",
+      "event": "तुला संक्रान्ति",
+      "tithi": "पञ्चमी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-07-02",
+      "event": "--",
+      "tithi": "षष्ठी"
+    },
+    {
+      "holiday": true,
+      "date": "2072-07-03",
+      "event": "फूलपाती",
+      "tithi": "सप्तमी"
+    },
+    {
+      "holiday": true,
+      "date": "2072-07-04",
+      "event": "महा अष्टमी",
+      "tithi": "अष्टमी"
+    },
+    {
+      "holiday": true,
+      "date": "2072-07-05",
+      "event": "विजयादशमी",
+      "tithi": "नवमी"
+    },
+    {
+      "holiday": true,
+      "date": "2072-07-06",
+      "event": "पापकुंश एकादशी ",
+      "tithi": "दशमी"
+    },
+    {
+      "holiday": true,
+      "date": "2072-07-07",
+      "event": "सयुंक्त राष्ट्र दिवस",
+      "tithi": "एकादशी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-07-08",
+      "event": "--",
+      "tithi": "त्रयोदशी"
+    },
+    {
+      "holiday": true,
+      "date": "2072-07-09",
+      "event": "कोजाग्रत पूर्णिमा",
+      "tithi": "चतुर्दशी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-07-10",
+      "event": "--",
+      "tithi": "पूर्णिमा"
+    },
+    {
+      "holiday": false,
+      "date": "2072-07-11",
+      "event": "--",
+      "tithi": "प्रतिपदा"
+    },
+    {
+      "holiday": false,
+      "date": "2072-07-12",
+      "event": "--",
+      "tithi": "द्वितीया"
+    },
+    {
+      "holiday": false,
+      "date": "2072-07-13",
+      "event": "--",
+      "tithi": "तृतिया"
+    },
+    {
+      "holiday": false,
+      "date": "2072-07-14",
+      "event": "--",
+      "tithi": "चतुर्थी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-07-15",
+      "event": "--",
+      "tithi": "षष्ठी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-07-16",
+      "event": "--",
+      "tithi": "सप्तमी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-07-17",
+      "event": "--",
+      "tithi": "अष्टमी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-07-18",
+      "event": "--",
+      "tithi": "अष्टमी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-07-19",
+      "event": "--",
+      "tithi": "नवमी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-07-20",
+      "event": "--",
+      "tithi": "दशमी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-07-21",
+      "event": "रमा एकादशी",
+      "tithi": "एकादशी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-07-22",
+      "event": "--",
+      "tithi": "द्वादशी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-07-23",
+      "event": "काग तिहार",
+      "tithi": "त्रयोदशी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-07-24",
+      "event": "कुकुर तिहार",
+      "tithi": "चतुर्दशी"
+    },
+    {
+      "holiday": true,
+      "date": "2072-07-25",
+      "event": "लक्ष्मी पूजा",
+      "tithi": "औंसी"
+    },
+    {
+      "holiday": true,
+      "date": "2072-07-26",
+      "event": "गोवर्द्धन पूजा ",
+      "tithi": "प्रतिपदा"
+    },
+    {
+      "holiday": true,
+      "date": "2072-07-27",
+      "event": "भाई टिका",
+      "tithi": "द्वितीया"
+    },
+    {
+      "holiday": false,
+      "date": "2072-07-28",
+      "event": "मधुमेह दिवस",
+      "tithi": "तृतिया"
+    },
+    {
+      "holiday": false,
+      "date": "2072-07-29",
+      "event": "--",
+      "tithi": "चतुर्थी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-07-30",
+      "event": "--",
+      "tithi": "पञ्चमी"
+    }
+  ],
+  [
+    {
+      "holiday": true,
+      "date": "2072-08-01",
+      "event": "बृस्चिक संक्रान्ति ",
+      "tithi": "षष्ठी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-08-02",
+      "event": "--",
+      "tithi": "सप्तमी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-08-03",
+      "event": "--",
+      "tithi": "अष्टमी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-08-04",
+      "event": "अन्तराष्ट्रिय बाल दिवस",
+      "tithi": "नवमी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-08-05",
+      "event": "टेलिभिजन दिवस",
+      "tithi": "दशमी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-08-06",
+      "event": "हरिबोधिनी एकादशी",
+      "tithi": "एकादशी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-08-07",
+      "event": "--",
+      "tithi": "द्वादशी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-08-08",
+      "event": "--",
+      "tithi": "त्रयोदशी"
+    },
+    {
+      "holiday": true,
+      "date": "2072-08-09",
+      "event": "गुरु नानक जयन्ति ( शिखहरुलाई मात्र)",
+      "tithi": "चतुर्दशी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-08-10",
+      "event": "--",
+      "tithi": "प्रतिपदा"
+    },
+    {
+      "holiday": false,
+      "date": "2072-08-11",
+      "event": "--",
+      "tithi": "द्वितीया"
+    },
+    {
+      "holiday": false,
+      "date": "2072-08-12",
+      "event": "--",
+      "tithi": "तृतिया"
+    },
+    {
+      "holiday": false,
+      "date": "2072-08-13",
+      "event": "--",
+      "tithi": "चतुर्थी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-08-14",
+      "event": "--",
+      "tithi": "पञ्चमी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-08-15",
+      "event": "एड्स दिवस",
+      "tithi": "षष्ठी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-08-16",
+      "event": "काल भैरब जयन्ति",
+      "tithi": "सप्तमी"
+    },
+    {
+      "holiday": true,
+      "date": "2072-08-17",
+      "event": "बिश्व अपाङ्ग दिवस (अपाङ्ग कर्मचारीहरुलाई मात्र)",
+      "tithi": "अष्टमी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-08-18",
+      "event": "--",
+      "tithi": "नवमी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-08-19",
+      "event": "--",
+      "tithi": "दशमी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-08-20",
+      "event": "--",
+      "tithi": "दशमी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-08-21",
+      "event": "उत्पतिका एकादशी ",
+      "tithi": "एकादशी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-08-22",
+      "event": "--",
+      "tithi": "द्वादशी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-08-23",
+      "event": "भ्रष्टाचार  बिरोध दिवस",
+      "tithi": "त्रयोदशी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-08-24",
+      "event": "बाला चतुर्दशी ",
+      "tithi": "चतुर्दशी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-08-25",
+      "event": "--",
+      "tithi": "औंसी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-08-26",
+      "event": "--",
+      "tithi": "प्रतिपदा"
+    },
+    {
+      "holiday": false,
+      "date": "2072-08-27",
+      "event": "--",
+      "tithi": "द्वितीया"
+    },
+    {
+      "holiday": false,
+      "date": "2072-08-28",
+      "event": "--",
+      "tithi": "तृतिया"
+    },
+    {
+      "holiday": false,
+      "date": "2072-08-29",
+      "event": "--",
+      "tithi": "चतुर्थी"
+    }
+  ],
+  [
+    {
+      "holiday": false,
+      "date": "2072-09-01",
+      "event": "धनु संक्रान्ति ",
+      "tithi": "पञ्चमी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-09-02",
+      "event": "--",
+      "tithi": "षष्ठी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-09-03",
+      "event": "आप्रवासी दिवस ",
+      "tithi": "सप्तमी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-09-04",
+      "event": "--",
+      "tithi": "अष्टमी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-09-05",
+      "event": "मानब एकता दिवस",
+      "tithi": "नवमी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-09-06",
+      "event": "मोक्षदा एकादशी",
+      "tithi": "एकादशी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-09-07",
+      "event": "--",
+      "tithi": "द्वादशी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-09-08",
+      "event": "--",
+      "tithi": "त्रयोदशी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-09-09",
+      "event": "--",
+      "tithi": "चतुर्दशी"
+    },
+    {
+      "holiday": true,
+      "date": "2072-09-10",
+      "event": "क्रिसमस डे ",
+      "tithi": "पूर्णिमा"
+    },
+    {
+      "holiday": false,
+      "date": "2072-09-11",
+      "event": "--",
+      "tithi": "प्रतिपदा"
+    },
+    {
+      "holiday": false,
+      "date": "2072-09-12",
+      "event": "--",
+      "tithi": "द्वितीया"
+    },
+    {
+      "holiday": false,
+      "date": "2072-09-13",
+      "event": "--",
+      "tithi": "तृतिया"
+    },
+    {
+      "holiday": false,
+      "date": "2072-09-14",
+      "event": "--",
+      "tithi": "चतुर्थी"
+    },
+    {
+      "holiday": true,
+      "date": "2072-09-15",
+      "event": "तमु ल्होसार",
+      "tithi": "पञ्चमी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-09-16",
+      "event": "--",
+      "tithi": "षष्ठी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-09-17",
+      "event": "सन् २०१६ प्रारम्भ ",
+      "tithi": "सप्तमी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-09-18",
+      "event": "--",
+      "tithi": "अष्टमी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-09-19",
+      "event": "--",
+      "tithi": "नवमी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-09-20",
+      "event": "--",
+      "tithi": "दशमी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-09-21",
+      "event": "सफला एकादशी",
+      "tithi": "एकादशी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-09-22",
+      "event": "--",
+      "tithi": "एकादशी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-09-23",
+      "event": "--",
+      "tithi": "द्वादशी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-09-24",
+      "event": "--",
+      "tithi": "त्रयोदशी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-09-25",
+      "event": "--",
+      "tithi": "चतुर्दशी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-09-26",
+      "event": "--",
+      "tithi": "औंसी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-09-27",
+      "event": "--",
+      "tithi": "प्रतिपदा"
+    },
+    {
+      "holiday": false,
+      "date": "2072-09-28",
+      "event": "--",
+      "tithi": "तृतिया"
+    },
+    {
+      "holiday": false,
+      "date": "2072-09-29",
+      "event": "--",
+      "tithi": "चतुर्थी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-09-30",
+      "event": "--",
+      "tithi": "पञ्चमी"
+    }
+  ],
+  [
+    {
+      "holiday": true,
+      "date": "2072-10-01",
+      "event": "मकर संक्रान्ति (घ्यु चाकु खाने दिन)",
+      "tithi": "षष्ठी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-10-02",
+      "event": "--",
+      "tithi": "सप्तमी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-10-03",
+      "event": "--",
+      "tithi": "अष्टमी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-10-04",
+      "event": "--",
+      "tithi": "नवमी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-10-05",
+      "event": "पुत्रदा एकादशी",
+      "tithi": "दशमी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-10-06",
+      "event": "--",
+      "tithi": "एकादशी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-10-07",
+      "event": "--",
+      "tithi": "द्वादशी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-10-08",
+      "event": "--",
+      "tithi": "त्रयोदशी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-10-09",
+      "event": "श्री स्वस्थानी ब्रतारम्भ",
+      "tithi": "चतुर्दशी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-10-10",
+      "event": "--",
+      "tithi": "पूर्णिमा"
+    },
+    {
+      "holiday": false,
+      "date": "2072-10-11",
+      "event": "--",
+      "tithi": "प्रतिपदा"
+    },
+    {
+      "holiday": false,
+      "date": "2072-10-12",
+      "event": "भन्सार दिवस ",
+      "tithi": "द्वितीया"
+    },
+    {
+      "holiday": false,
+      "date": "2072-10-13",
+      "event": "--",
+      "tithi": "तृतिया"
+    },
+    {
+      "holiday": false,
+      "date": "2072-10-14",
+      "event": "--",
+      "tithi": "चतुर्थी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-10-15",
+      "event": "--",
+      "tithi": "पञ्चमी"
+    },
+    {
+      "holiday": true,
+      "date": "2072-10-16",
+      "event": "सहिद दिवस",
+      "tithi": "षष्ठी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-10-17",
+      "event": "कुष्टरोग दिवस ",
+      "tithi": "सप्तमी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-10-18",
+      "event": "--",
+      "tithi": "अष्टमी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-10-19",
+      "event": "सिमसार दिवस ",
+      "tithi": "नवमी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-10-20",
+      "event": "षटतिला एकादशी",
+      "tithi": "दशमी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-10-21",
+      "event": "क्यान्सर दिवस",
+      "tithi": "एकादशी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-10-22",
+      "event": "--",
+      "tithi": "द्वादशी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-10-23",
+      "event": "--",
+      "tithi": "त्रयोदशी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-10-24",
+      "event": "--",
+      "tithi": "चतुर्दशी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-10-25",
+      "event": "--",
+      "tithi": "औंसी"
+    },
+    {
+      "holiday": true,
+      "date": "2072-10-26",
+      "event": "सोनाम ल्होसार ",
+      "tithi": "प्रतिपदा"
+    },
+    {
+      "holiday": false,
+      "date": "2072-10-27",
+      "event": "--",
+      "tithi": "द्वितीया"
+    },
+    {
+      "holiday": false,
+      "date": "2072-10-28",
+      "event": "--",
+      "tithi": "तृतिया"
+    },
+    {
+      "holiday": false,
+      "date": "2072-10-29",
+      "event": "--",
+      "tithi": "चतुर्थी"
+    }
+  ],
+  [
+    {
+      "holiday": false,
+      "date": "2072-11-01",
+      "event": "श्री पंचमी ",
+      "tithi": "पञ्चमी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-11-02",
+      "event": "प्रेम दिवस ",
+      "tithi": "सप्तमी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-11-03",
+      "event": "--",
+      "tithi": "अष्टमी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-11-04",
+      "event": "--",
+      "tithi": "नवमी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-11-05",
+      "event": "--",
+      "tithi": "दशमी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-11-06",
+      "event": "भीमा एकादशी",
+      "tithi": "एकादशी"
+    },
+    {
+      "holiday": true,
+      "date": "2072-11-07",
+      "event": "प्रजातन्त्र दिवस",
+      "tithi": "द्वादशी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-11-08",
+      "event": "सामाजिक न्याय दिवस",
+      "tithi": "त्रयोदशी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-11-09",
+      "event": "मातृभाषा दिवस ",
+      "tithi": "चतुर्दशी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-11-10",
+      "event": "श्री स्वस्थानी ब्रत समाप्ती",
+      "tithi": "पूर्णिमा"
+    },
+    {
+      "holiday": false,
+      "date": "2072-11-11",
+      "event": "--",
+      "tithi": "प्रतिपदा"
+    },
+    {
+      "holiday": false,
+      "date": "2072-11-12",
+      "event": "--",
+      "tithi": "द्वितीया"
+    },
+    {
+      "holiday": false,
+      "date": "2072-11-13",
+      "event": "--",
+      "tithi": "तृतिया"
+    },
+    {
+      "holiday": false,
+      "date": "2072-11-14",
+      "event": "--",
+      "tithi": "तृतिया"
+    },
+    {
+      "holiday": false,
+      "date": "2072-11-15",
+      "event": "--",
+      "tithi": "चतुर्थी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-11-16",
+      "event": "--",
+      "tithi": "पञ्चमी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-11-17",
+      "event": "--",
+      "tithi": "षष्ठी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-11-18",
+      "event": "--",
+      "tithi": "सप्तमी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-11-19",
+      "event": "--",
+      "tithi": "अष्टमी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-11-20",
+      "event": "--",
+      "tithi": "नवमी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-11-21",
+      "event": "--",
+      "tithi": "दशमी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-11-22",
+      "event": "बिजया एकादशी",
+      "tithi": "एकादशी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-11-23",
+      "event": "--",
+      "tithi": "द्वादशी"
+    },
+    {
+      "holiday": true,
+      "date": "2072-11-24",
+      "event": "महा शिवरात्री",
+      "tithi": "त्रयोदशी"
+    },
+    {
+      "holiday": true,
+      "date": "2072-11-25",
+      "event": "नारी दिवस ",
+      "tithi": "चतुर्दशी"
+    },
+    {
+      "holiday": true,
+      "date": "2072-11-26",
+      "event": "ग्याल्पो ल्होसार ",
+      "tithi": "औंसी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-11-27",
+      "event": "--",
+      "tithi": "द्वितीया"
+    },
+    {
+      "holiday": false,
+      "date": "2072-11-28",
+      "event": "--",
+      "tithi": "तृतिया"
+    },
+    {
+      "holiday": false,
+      "date": "2072-11-29",
+      "event": "--",
+      "tithi": "चतुर्थी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-11-30",
+      "event": "--",
+      "tithi": "पञ्चमी"
+    }
+  ],
+  [
+    {
+      "holiday": false,
+      "date": "2072-12-01",
+      "event": "मीन संक्रान्ति",
+      "tithi": "षष्ठी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-12-02",
+      "event": "--",
+      "tithi": "सप्तमी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-12-03",
+      "event": "--",
+      "tithi": "अष्टमी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-12-04",
+      "event": "--",
+      "tithi": "नवमी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-12-05",
+      "event": "--",
+      "tithi": "दशमी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-12-06",
+      "event": "अमलकी एकादशी",
+      "tithi": "एकादशी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-12-07",
+      "event": "--",
+      "tithi": "द्वादशी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-12-08",
+      "event": "जातीयविभेद बिरुद्ध दिवस ",
+      "tithi": "त्रयोदशी"
+    },
+    {
+      "holiday": true,
+      "date": "2072-12-09",
+      "event": "होली ",
+      "tithi": "चतुर्दशी"
+    },
+    {
+      "holiday": true,
+      "date": "2072-12-10",
+      "event": "तराईमा होली( तराईमा मात्र) ",
+      "tithi": "पूर्णिमा"
+    },
+    {
+      "holiday": false,
+      "date": "2072-12-11",
+      "event": "क्षयरोग दिवस ",
+      "tithi": "प्रतिपदा"
+    },
+    {
+      "holiday": false,
+      "date": "2072-12-12",
+      "event": "--",
+      "tithi": "द्वितीया"
+    },
+    {
+      "holiday": false,
+      "date": "2072-12-13",
+      "event": "--",
+      "tithi": "तृतिया"
+    },
+    {
+      "holiday": false,
+      "date": "2072-12-14",
+      "event": "--",
+      "tithi": "चतुर्थी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-12-15",
+      "event": "--",
+      "tithi": "पञ्चमी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-12-16",
+      "event": "--",
+      "tithi": "पञ्चमी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-12-17",
+      "event": "--",
+      "tithi": "षष्ठी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-12-18",
+      "event": "--",
+      "tithi": "सप्तमी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-12-19",
+      "event": "--",
+      "tithi": "अष्टमी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-12-20",
+      "event": "--",
+      "tithi": "नवमी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-12-21",
+      "event": "पापमोचिनी एकादशी",
+      "tithi": "दशमी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-12-22",
+      "event": "--",
+      "tithi": "एकादशी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-12-23",
+      "event": "--",
+      "tithi": "त्रयोदशी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-12-24",
+      "event": "--",
+      "tithi": "चतुर्दशी"
+    },
+    {
+      "holiday": true,
+      "date": "2072-12-25",
+      "event": "घोडेजात्रा ",
+      "tithi": "औंसी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-12-26",
+      "event": "--",
+      "tithi": "प्रतिपदा"
+    },
+    {
+      "holiday": false,
+      "date": "2072-12-27",
+      "event": "--",
+      "tithi": "द्वितीया"
+    },
+    {
+      "holiday": false,
+      "date": "2072-12-28",
+      "event": "--",
+      "tithi": "तृतिया"
+    },
+    {
+      "holiday": false,
+      "date": "2072-12-29",
+      "event": "--",
+      "tithi": "पञ्चमी"
+    },
+    {
+      "holiday": false,
+      "date": "2072-12-30",
+      "event": "अन्तरिक्ष यात्रा दिवस",
+      "tithi": "षष्ठी"
+    }
+  ]
+]
